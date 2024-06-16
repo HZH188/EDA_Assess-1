@@ -1,0 +1,40 @@
+Start testing: Jun 16 16:38 CST
+----------------------------------------------------------
+1/1 Testing: ParserTest
+1/1 Test: ParserTest
+Command: "/home/linux/Desktop/EDA_Assess/build/test_main"
+Directory: /home/linux/Desktop/EDA_Assess/build
+"ParserTest" start time: Jun 16 16:38 CST
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParserTest
+[ RUN      ] ParserTest.BasicParsing
+Parsed DieSize: 10 10
+Parsed NumInstances: 3
+Parsed Instance: Instance1
+Parsed Instance: Instance2
+Parsed Instance: Instance3
+Parsed NumNets: 2
+Parsed Net: Net1 with 2 pins
+Parsed Pin: Pin1
+Parsed Pin: Pin2
+Parsed Net: Net2 with 2 pins
+Parsed Pin: Pin3
+Parsed Pin: Pin4
+[       OK ] ParserTest.BasicParsing (0 ms)
+[----------] 1 test from ParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParserTest" end time: Jun 16 16:38 CST
+"ParserTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 16 16:38 CST

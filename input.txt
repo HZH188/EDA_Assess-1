@@ -1,0 +1,13 @@
+DieSize 10 10
+NumInstances 3
+Instance1
+Instance2
+Instance3
+NumNets 2
+Net1 2
+Pin1
+Pin2
+Net2 2
+Pin3
+Pin4
+
